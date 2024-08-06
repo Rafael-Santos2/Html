@@ -3,4 +3,4 @@
 
 Códigos feitos em html na aula👻
 
-![2GU](https://github.com/user-attachments/assets/c9326a56-e422-459d-ba27-309914a58f6e)
+![KHO](https://github.com/user-attachments/assets/88510b1e-206c-4a10-906e-a2dc78223cae)
