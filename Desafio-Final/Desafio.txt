@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CREED3 O FILME</title>
+	</head>
+
+	<body> 
+
+		<h1>CREED 3</h1>
+		<img src= "Creed3.jpg" alt="filme creed" height="400">
+
+		<h2>Ano de Produção: 2023</h2>
+		<h2>Direção: Michael B. Jordan</h2>
+		<h2>Classificação: 12 anos</h2>
+		<h2>Gênero: Ação</h2>
+		<h2>País de Origem: EUA</h2>
+
+		<h4>Sinopse:</h4>
+
+		<p>Depois de dominar os ringues, Adonis Creed tem prosperado com sua carreira e família.</p>
+<p>Quando um amigo de infância e ex-prodígio do boxe, Damian, ressurge após uma longa sentença na prisão, o campeão fica ansioso para provar que merece sua chance.</p>
+<p> O confronto entre ex-amigos é mais do que apenas uma luta. Para acertar as contas, Adonis deve colocar seu futuro em risco para enfrentar Damian, um lutador que não tem nada a perder.</p>
+
+		<a href="https://pt.wikipedia.org/wiki/Creed_III"
+		target="_blank">Para mais Informações</a>
+
+	</body>
+
+</html>
+		
