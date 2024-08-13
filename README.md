@@ -15,4 +15,5 @@ Códigos feitos em html na aula👻
 - No desafio links imagem, temos uma imagem e dois links de redirecionamento, um para o google e um para o youtube
 - No desafio listas, temos uma receita de bolo usando dois modelos de listas diferentes
 - No Clone do google, fizemos uma pagina igual a do google
+  
 ![KHO](https://github.com/user-attachments/assets/88510b1e-206c-4a10-906e-a2dc78223cae)
